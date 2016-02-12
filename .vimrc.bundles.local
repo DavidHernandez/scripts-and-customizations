@@ -1,0 +1,4 @@
+" I don't have any special configuration for Vim, as I use spf13 distribution:
+" http://vim.spf13.com/
+
+Bundle 'joonty/vdebug'
